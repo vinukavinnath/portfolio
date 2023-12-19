@@ -1,0 +1,99 @@
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: 'IBM Plex Serif', serif;
+  font-size: 1.2rem;
+  
+}
+
+h1 {
+  margin-top: 0px;
+  font-size: 3rem;
+  color: #265073;
+}
+
+h2 {
+  font-family: 'Merriweather', serif;
+  font-size: 1.5rem;
+}
+
+table {
+  width: 100%;
+  
+}
+
+hr{
+  border: 2px dashed #2D9596;
+  background-color: transparent;
+  width: 70%;
+}
+
+.main_section{
+  margin: 70px 0;
+}
+
+.section1 {
+  background-color: #D0E7D2;
+  border-radius: 0 0 15px 15px;
+  padding: 20px;
+  padding-top: 100px;
+  position: relative;
+}
+
+.heading {
+  font-family: 'Playball', cursive;
+  font-size: 5rem;
+}
+
+.block_images {
+  position: absolute;
+}
+
+.cloud1 {
+  top: 100px;
+  left: 300px;
+}
+
+.cloud2 {
+  right: 300px;
+  bottom: 320px;
+}
+
+.aboutme {
+  font-size: 1.5rem;
+}
+
+.img_vinuka {
+  max-width: 100%;
+  width: 30%;
+  margin: 0 auto;
+}
+
+.center-table {
+  border-collapse: collapse;
+}
+
+.skill_description {
+  margin: 50px;
+  text-align: left;
+}
+
+.footer {
+  padding: 20px;
+  background-color: #9AD0C2;
+  border-radius: 15px 15px 0 0;
+  margin-top: 80px;
+}
+
+.profile_img {
+  width: 200px;
+  height: 200px;
+}
+
+.profile_description {
+  text-align: left;
+}
+
+.footer-icons{
+  margin: 10px;
+}
