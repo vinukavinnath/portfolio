@@ -1,0 +1,53 @@
+@font-face {
+    font-family: 'Mona Sans';
+    src: url(../assets/font/Mona-Sans-Regular.ttf)format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    color: #090909;
+}
+
+:root {
+    font-size: 16px;
+}
+
+body {
+    font-family: 'Mona Sans', sans-serif;
+}
+
+#about-section {
+    margin: 50px 0;
+    padding: 70px 0;
+}
+
+#experience-section {
+    margin-top: 50px;
+    padding: 70px 0;
+    background-color: #F5F5F0;
+}
+
+#projects-section {
+    padding: 40px 0;
+    background-color: #F5F5F0;
+}
+
+#servies-section {
+    padding: 40px 0;
+    background-color: #F5F5F0;
+}
+
+#cream-card {
+    background-color: #F5F5F0;
+}
+
+.background-white {
+    background-color: #FFFFFF;
+}
+
+.custom-img-size {
+    width: 100%;
+    /* Ensures the image fills the container width */
+    height: 250px;
+    /* Set a uniform height for all images */
+    object-fit: cover;
+    /* Ensures the image covers the area without stretching */
+}
